@@ -1,5 +1,5 @@
 # 💫 About Me:
-Técnico superior en desarrolo de aplicaciones web, con<br>conocimiento sólido en React JS, Next JS, Node JS, SQL, Big<br>Query y Google Cloud.<br>Head of Data en Atomik Pro, Trading Desk
+Desarrollador de Software, con<br>conocimiento sólido en React JS, Next JS, Nest JS, Node JS, SQL, Big<br>Query y Google Cloud.
 
 
 ## 🌐 Socials:
