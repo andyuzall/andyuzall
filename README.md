@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador de Software, con conocimiento sólido en React JS, Next JS, Nest JS, Node JS, SQL, BigQuery y Google Cloud.
+Desarrollador de Software y Analista de datos.
 
 
 ## 🌐 Socials:
